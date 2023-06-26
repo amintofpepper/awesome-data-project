@@ -9,4 +9,6 @@ State of Illinois Commission on Equity and Inclusion
 RAFI-USA
 **Californians for Pesticide Reform**
 Prevent Blindness
-Internet Equity  
+Internet Equity
+
+------------
